@@ -1,2 +1,3 @@
-Hi
+ Good morning 
+ Hi
 This is simple file for git commands

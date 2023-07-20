@@ -1,1 +1,2 @@
+Hello updating file2
 Test2
